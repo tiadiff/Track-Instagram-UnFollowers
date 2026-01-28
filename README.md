@@ -17,7 +17,6 @@ Uno script JavaScript leggero, sicuro e privo di dipendenze esterne per analizza
 * **🛡️ Sicurezza Prima di Tutto:**
     * **Nessun Login Richiesto:** Sfrutta la sessione del browser già attiva. Le tue password non lasciano mai il tuo PC.
     * **No Auto-Unfollow:** Rimossa ogni funzione di automazione (unfollow di massa) per proteggere l'account da blocchi o restrizioni di Instagram.
-* **📋 Export Facile:** Funzione "COPY LIST" per copiare istantaneamente tutti i nickname negli appunti.
 
 ---
 
@@ -30,7 +29,7 @@ Non serve installare nulla. Lo script gira direttamente nel tuo browser.
     * Premi `F12` sulla tastiera.
     * *Oppure* Tasto Destro del mouse in un punto qualsiasi della pagina -> **Ispeziona**.
 3. Clicca sulla scheda **Console**.
-4. Copia l'intero codice dello script (dal file `script.js` di questo repository).
+4. Copia l'intero codice dello script (dal file `.js` di questo repository).
 5. Incolla il codice nella Console e premi **Invio**.
 6. Apparirà un pulsante **SCAN** al centro dello schermo. Cliccalo per avviare l'analisi.
 
@@ -40,8 +39,7 @@ Non serve installare nulla. Lo script gira direttamente nel tuo browser.
 
 L'interfaccia si sovrappone alla pagina di Instagram mostrando:
 1. Una barra di stato con il conteggio in tempo reale.
-2. Una lista pulita: `Index. Nickname`.
-3. Un pulsante per copiare l'elenco.
+2. Una lista semplice e pulita: `#username`.
 
 ---
 
