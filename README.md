@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Instagram Unfollowers Scanner (Dark Minimal Edition)
+# 🕵️‍♂️ Instagram Unfollowers Scanner
 
 A lightweight, zero-dependency JavaScript utility that securely analyzes your Instagram profile to identify users who don't follow you back.
 
